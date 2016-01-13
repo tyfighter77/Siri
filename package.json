@@ -1,0 +1,26 @@
+{
+  "name": "siri",
+  "version": "1.0.0",
+  "description": "A mini project to practice basic Node.JS fundamentals and server-side programming.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyfighter77/Siri.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyfighter77/Siri/issues"
+  },
+  "homepage": "https://github.com/tyfighter77/Siri#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.8.1"
+  }
+}
